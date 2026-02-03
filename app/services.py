@@ -5,3 +5,4 @@ def compute_bonus(sales: float) -> float:
     if sales < 50000:
         return sales * 0.05
     return sales * 0.10
+
